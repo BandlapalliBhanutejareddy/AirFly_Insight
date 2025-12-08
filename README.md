@@ -9,7 +9,8 @@ Advanced Flight Delay & Performance Analytics Dashboard (Power BI)
 AirFly Insight is a data-driven Power BI analytics solution designed to uncover hidden delay patterns, airline efficiency, seasonal behavior, and operational bottlenecks in large-scale flight operations. The dashboard transforms raw aviation data into actionable business intelligence for airports, airlines, and logistics teams.
 
 
-screenshots/Page_1-flights_overview.png
+<img width="1378" height="778" alt="Page_1-flights_overview" src="https://github.com/user-attachments/assets/3d7ab817-5ba0-445d-b22f-bd07d0eac6a7" />
+
 PAGE 1: FLIGHT PERFORMANCE OVERVIEW
 
 This page delivers an immediate high-impact snapshot of system-wide flight performance.

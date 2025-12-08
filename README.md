@@ -1,11 +1,9 @@
-📌 Submission Details
+PBIX File Access
+Due to GitHub file size limitations, the Power BI dashboard file is provided via Google Drive.
 
-Fork this repository to your own GitHub account, naming it AirFly_-[YourName] (replace [YourName] with your actual name).
+Download Link: https://drive.google.com/file/d/1o_tkCtRPvMu3p78UGGBWAaBNH0xAVdpL/view?usp=drive_link
 
-Create a folder with your name inside your forked repo and place all your work (code, dataset links, results, and a README).
+AirFly Insight
+Advanced Flight Delay & Performance Analytics Dashboard (Power BI)
 
-Make regular and meaningful commits for every milestone.
-
-Push your changes to your forked repository or upload your work manually.
-
-Update your repository at every milestone to reflect your progress.
+AirFly Insight is a data-driven Power BI analytics solution designed to uncover hidden delay patterns, airline efficiency, seasonal behavior, and operational bottlenecks in large-scale flight operations. The dashboard transforms raw aviation data into actionable business intelligence for airports, airlines, and logistics teams.
